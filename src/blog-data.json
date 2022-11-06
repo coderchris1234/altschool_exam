@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet consec.",
+      "imageUrl": "https://i.ibb.co/ZYW3VTp/brown-brim.png",
+      "author": "Shop Admin",
+      "category": "Lifestyle",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhendit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. "
+    },
+    {
+      "id": 2,
+      "title": "Lorem ipsum dolor sit amet consec.",
+      "imageUrl": "https://i.ibb.co/ypkgK0X/blue-beanie.png",
+      "author": "Shop Admin",
+      "category": "Pop Culture",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehendrit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. "
+    },
+    {
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet consec.",
+      "imageUrl": "https://i.ibb.co/QdJwgmp/brown-cowboy.png",
+      "author": "Shop Admin",
+      "category": "Tech",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprhendit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qei officia deser mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam. "
+    }
+]
